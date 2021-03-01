@@ -26,10 +26,10 @@ When comparing school summaries, again we don’t see much of a difference. Thom
 * Math and Reading Ccores by Grade
 
 Math Scores by Grade
-![ math_per_grade]( math_per_grade.png)
+![ math_per_grade](math_by_grade.png.png)
 
 Reading Scores by Grade
-![ reading_per_grade]( reading _per_grade.png)
+![ reading_per_grade](reading_by_grade.png)
 
 If we take a look deeper within the data, looking at how Thomas High School’s performance relative to the other schools after replacing the ninth graders’ math and reading scores per grade, we slight change. Granted, both the average math and reading score summaries are stratified by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact. 
 
@@ -45,7 +45,7 @@ Reviewing the school spending summary, we notice there is about 7% fall in the p
 Based on the school size there is no difference on the average math and reading scores. But there is about 6% fall in the percentage for the math, reading and overall as compared to the previous dataframe for medium (1000-2000 students) size schools. This is due to the fact that the Thomas High School has 1635 students which comes in the category of medium size schools.
 
  * Scores by school type
-![ type_summary]( type_summary.png)
+![type_summary](type_summary.png)
 
 There is no change in the average math and reading scores based on the school type. Although, since Thomas High School is charter type school, there is a reduction of 4% in the math and reading passing percentage. The overall percentage falls by 3 % from the previus. 
 
