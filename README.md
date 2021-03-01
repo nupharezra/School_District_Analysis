@@ -7,9 +7,9 @@ In this analysis, we are helping our colleague, Maria, with analyzing the standa
 
 # How is the School District Summary affected?
 School District Summary
-![district_summary]( district_summary.png)
+![district_summary](district_summary.png)
 School District Summary without Thomas High School Scores
-![district_summary_THS]( district_summary_THS.png)
+![district_summary_THS](district_summary_THS.png)
 
 When analyzing the average scores and passing percentages among the 15 high schools in the district, our figures have not significantly changed. The average math score dropped by .1 and there is a 1% drop in the “percent passing math”, “percent passing reading”, and “overall passing percentage”. 
 
