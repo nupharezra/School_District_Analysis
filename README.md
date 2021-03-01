@@ -23,13 +23,15 @@ When comparing school summaries, again we don’t see much of a difference. Thom
 
 # How does replacing the ninth-grade scores affect the following:
 
-* Math and Reading Ccores by Grade
+* Math and Reading Scores by Grade
 
 Math Scores by Grade
-![ math_per_grade](math_by_grade.png.png)
+
+![math_by_grade](math_by_grade.png.png)
 
 Reading Scores by Grade
-![ reading_per_grade](reading_by_grade.png)
+
+![reading_by_grade](reading_by_grade.png)
 
 If we take a look deeper within the data, looking at how Thomas High School’s performance relative to the other schools after replacing the ninth graders’ math and reading scores per grade, we slight change. Granted, both the average math and reading score summaries are stratified by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact. 
 
