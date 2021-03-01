@@ -27,7 +27,7 @@ When comparing school summaries, again we don’t see much of a difference. Thom
 
 Math Scores by Grade
 
-![math_by_grade](math_by_grade.png.png)
+![math_by_grade](math_by_grade.png)
 
 Reading Scores by Grade
 
