@@ -7,7 +7,7 @@ In this analysis, we are helping our colleague, Maria, with analyzing the standa
 
 # How is the School District Summary affected?
 School District Summary
-![district_summary](district_summary.png)
+![district_summary](disctrict_summary.png)
 School District Summary without Thomas High School Scores
 ![district_summary_THS](district_summary_THS.png)
 
